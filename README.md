@@ -8,11 +8,11 @@ Repository for
 ## Overview
 ------
 
-![1](img/0.png)
+![1](img/overview0.png)
 
 Parallel Histogram Plot (PHP) is a technique that overcomes the innate limitations of parallel coordinates plot (PCP) by attaching stacked-bar histograms with discrete color schemes to PCP. From the color-coded histograms, users are able to see an overview of the whole data without cluttering or scalability issues. Following the Visual Information Seeking Mantra, the polylines of the original PCP can be used to show details of a small number of selected items when the cluttering problem subsides.
     
-![2](img/1.png)
+![2](img/overview1.png)
 
 Each rectangle in the PHP histograms is color coded according to the data ranking by a selected attribute. 
 
@@ -23,7 +23,7 @@ Each rectangle in the PHP histograms is color coded according to the data rankin
 **(c)** We then build histograms by stacking color-coded bars, with each bar representing a group. 
 
 
-![3](img/2.png)
+![3](img/overview2.png)
 
 The color-coding scheme allows users to visually examine relationships between attributes, even between those that are displayed far apart, without repositioning or reordering axes. For example, correlation between the selected(pivot) attribute and all the other attributes can be derived by comparing the color distributions of the corresponding histograms.
 
