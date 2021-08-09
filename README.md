@@ -18,7 +18,7 @@ Each rectangle in the PHP histograms is color coded according to the data rankin
 
 **(a)** We first order the data items by a user-selected attribute and split the data items into groups according to the order while ensuring that each group has a similar number of items. 
 
-**(b)** We represent each group as a bar and assign a unique color to each group. 
+**(b)** We represent each group as a bar and assign a unique color to each group. The colors are sampled from a diverging color scheme, to emphasize low- and high-ranked groups.
 
 **(c)** We then build histograms by stacking color-coded bars, with each bar representing a group. 
 
