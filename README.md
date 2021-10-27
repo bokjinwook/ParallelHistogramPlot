@@ -1,12 +1,12 @@
 # Parallel Histogram Plot
 
-:book: [Full Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9262081) :scroll: [Poster](http://hcil.snu.ac.kr/system/publications/pdfs/000/000/122/original/final2.pdf?1540239578)
+:book: [Full Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9262081) :scroll: [Poster](http://hcil.snu.ac.kr/system/publications/pdfs/000/000/122/original/final2.pdf?1540239578) :speaking_head: (Infovis 2021) [PDF](presentation.pdf) / Youtube
 
 Repository for
 [Augmenting Parallel Coordinates Plots with Color-coded Stacked Histograms](https://ieeexplore.ieee.org/abstract/document/9262081) 
 
 ## Overview
-------
+
 
 ![1](img/overview0.png)
 
@@ -28,16 +28,14 @@ Each rectangle in the PHP histograms is color coded according to the data rankin
 The color-coding scheme allows users to visually examine relationships between attributes, even between those that are displayed far apart, without repositioning or reordering axes. For example, correlation between the selected(pivot) attribute and all the other attributes can be derived by comparing the color distributions of the corresponding histograms.
 
 ## Code
-------
-To be updated.
+To be updated and should be updated...:roll_eyes:
 
 ## Demo
-------
+
 
 https://bokjinwook.github.io/ParallelHistogramPlotDemo/
 
 ## Citation
--------
 
 ```bib
 @ARTICLE{bok2020augmenting,
@@ -53,12 +51,13 @@ https://bokjinwook.github.io/ParallelHistogramPlotDemo/
 ```
 
 ## Contact
--------
+
 bok@hcil.snu.ac.kr
 
 ## Updates
--------
+
 210809 Added Overview
 
 210805 Initial Commit
 
+211027 Added Slides
